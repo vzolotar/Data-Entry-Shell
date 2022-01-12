@@ -28,7 +28,7 @@ created with unix shell script: Student Data Entry Form
  ------------8. Quit------------------------------------------------
  -------------------------------------------------------------------
 
- Enter enter:
+ Enter here:
 
 ````
 
